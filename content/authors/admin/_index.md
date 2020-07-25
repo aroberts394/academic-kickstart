@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include health systems, healthcare quality and health policy modeling.
 
 interests:
 - Health Systems
@@ -71,5 +71,7 @@ email: ""
 
 ---
 I am a GEM Fellow and an Industrial and Systems Engineering MS candidate with a focus in Analytics at the University of Minnesota-Twin Cities. My GEM employer sponsor is The MITRE Corporation. At MITRE, I am a health systems engineer within the Health where I help decision makers in health care organizations (medical device companies, public health agencies, and health centers) to improve their process and product quality, increase operational effciency, optimize business targets with resources and streamline service delivery so they can focus on improving the health outcomes of patients while maintaining a health operation.
+
+Please get in touch!
 
 
